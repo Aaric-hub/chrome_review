@@ -1,6 +1,6 @@
 # chrome_review
 
-This is repository is not being deployed in any platform as the response time exceeds 30 seconds for the NLP data processing part. 
+This repository is being deployed for deployment platform. As the response time exceeds 30 seconds for the NLP data processing part in my case, you can wish to deploy it and test on your network. 
 This app runs perfectly in the local server. Do check it out.
 For the deployed app please refer: [https://github.com/Aaric-hub/reviews.git]
 
